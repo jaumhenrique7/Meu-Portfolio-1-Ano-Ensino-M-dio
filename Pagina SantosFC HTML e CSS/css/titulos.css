@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+    border: 1px  black;
+}
+
+ th, td {
+     border: 1px solid black; 
+  }
+.titulos {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.classes {
+    background-color:lightgrey;
+}
